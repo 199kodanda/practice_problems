@@ -1,3 +1,5 @@
+
+/*Given an array of N unique numbers except 1,Find that number ?*/
 #define _CRT_SECURE_NO_WARNINGS
 #include<stdio.h>
 #include<conio.h>
