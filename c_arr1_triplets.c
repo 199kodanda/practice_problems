@@ -1,3 +1,8 @@
+/*Given an array of N numbers ,Find All Triplets whose sum equal to a integer K ? 
+{0,2,3,4,5,6} and K=10 ,gives output as {5,3,2} ,{6,3,1} ,{0,4,6} .
+Dont print All permutations of same Triplet like {0,4,6} ,{6,4,0 } etc .Print any 1 .*/
+
+
 #define _CRT_SECURE_NO_WARNINGS
 #include<stdio.h>
 #include<conio.h>
