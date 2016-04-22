@@ -1,3 +1,5 @@
+/* given an array of unsorted elements.. Find min and max elemnets among them*/
+
 #include<stdio.h>
 #include<conio.h>
 void fun(int *a,int n,int *arr)
